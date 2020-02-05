@@ -96,7 +96,7 @@ Methods: calculateTotal, incrementTicketNumber, insertMoney, getBalance, getTick
 ### Exercise 2.10
 * Do you notice any features of the constructor that make it significantly different from the other methods of the class?
 
-Answer: The contructor have the class name, initializes the object to a reasonable state and will not give return value.
+Answer: The contructor have the class name; it initializes the object to a reasonable state and will not give return value.
 
 ### Exercise 2.11
 * What do you think is the type of each of the following fields?
@@ -143,7 +143,7 @@ yes, we got an error " <identifier> expected " " Error(s) found in class"
 * Once again, experiment via the editor.
 * The rule you will learn here is an important one, so be sure to remember it.
 
-Answer:Yes ; is necessary to the end the statement.when you remove and try ot compile it says ';' expected. 
+Answer:Yes ';' is necessary to the end the statement. When you remove it and try to compile it says ';' expected. 
 
 ### Exercise 2.15
 * Write in full the declaration for a field of type `int` whose name is `status`.
@@ -171,7 +171,7 @@ Answer:there are 2 parameter and the types are String and double.
 * Can you assume anything about the names of its fields?
 
 Answer: Yes, we can guess the types of the book.eg: int, float
-Yes, we can assume anything for the name. eg: page, volume number.
+Yes, we can assume anything for the name. eg: page, version.
 
 
 READ upto and INCLUDING section 2.15 of this chapter.
